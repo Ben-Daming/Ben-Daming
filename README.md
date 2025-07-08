@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ben-Daming
 - 👀 I’m interested in programming,swimming,hiking,riding and all the breathtaking sceneries in life
-- 🌱 I’m currently learning C++ basic
+- 🌱 I’m currently learning Machine learning and basic computer system
 - 💞️ I’m looking to collaborate on insteresting mini games
 - 📫 How to reach me:send me emails on my outlook,because I do not usually visit my gmail😊
 - 😄 Pronouns: Mingming
